@@ -1,5 +1,6 @@
 
 # **Supplementary material for "MAIZE YIELD PREDICTION BASED ON MULTI-MODALITY REMOTE SENSING AND LSTM MODELS IN NITROGEN MANAGEMENT PRACTICE TRIALS"**
 
-https://username.github.io/folder/document.pdf
 
+
+<embed src="https://username.github.io/folder/document.pdf" type="application/pdf" />
