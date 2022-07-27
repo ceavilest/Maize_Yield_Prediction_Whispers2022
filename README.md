@@ -113,4 +113,4 @@ No. |Hyperspectal Index |Formula |Name
 
 ### June 17, 2021
 
-![alt text](https://github.com/ceavilest/Maize_Yield_Prediction_Whispers2022/blob/main/date1?raw=true)
+![Screenshot](date1.png)
