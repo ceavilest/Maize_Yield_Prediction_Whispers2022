@@ -113,4 +113,4 @@ No. |Hyperspectal Index |Formula |Name
 
 ### June 17, 2021
 
-![Screenshot](date1.png)
+![Screenshot](date1.jpg)
