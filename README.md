@@ -56,6 +56,31 @@ No. |Hyperspectal Index |Formula |Name
 49|HREI16|$\LARGE\frac{\rho_{910}-\rho_{705}}{\rho_{910}+\rho_{705}}$|Hyperspectral Red Edge Indices [^23]
 50|NDRE|$\LARGE\frac{\rho_{790}-\rho_{720}}{\rho_{790}+\rho_{720}}$|Normalized Difference Vegetation Indexes [^25]
 
+## SHAP Feature Importance in each time-step
+
+### June 17, 2021
+
+![Screenshot](date1.jpg)
+
+### July 3, 2021
+
+![Screenshot](date2.jpg)
+
+### July 20, 2021
+
+![Screenshot](date3.jpg)
+
+### July 27, 2021
+
+![Screenshot](date4.jpg)
+
+### August 15, 2021
+
+![Screenshot](date5.jpg)
+
+### September 6, 2021
+
+![Screenshot](date6.jpg)
 
 ### References
 
@@ -109,8 +134,4 @@ No. |Hyperspectal Index |Formula |Name
 
 [^25]:	E. Barnes et al., “Coincident detection of crop water stress, nitrogen status, and canopy density using ground based multispectral data,” Jan. 2000.
 
-## SHAP Feature Importance in each time-step
 
-### June 17, 2021
-
-![Screenshot](date1.jpg)
