@@ -60,27 +60,27 @@ No. |Hyperspectal Index |Formula |Name
 
 ### June 17, 2021
 
-![Screenshot](date1.jpg)
+![Screenshot](20210617.jpg)
 
 ### July 3, 2021
 
-![Screenshot](date2.jpg)
+![Screenshot](20210703.jpg)
 
 ### July 20, 2021
 
-![Screenshot](date3.jpg)
+![Screenshot](20210720.jpg)
 
 ### July 27, 2021
 
-![Screenshot](date4.jpg)
+![Screenshot](20210727.jpg)
 
 ### August 15, 2021
 
-![Screenshot](date5.jpg)
+![Screenshot](20210815.jpg)
 
 ### September 6, 2021
 
-![Screenshot](date6.jpg)
+![Screenshot](20210906.jpg)
 
 ### References
 
