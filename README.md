@@ -109,3 +109,8 @@ No. |Hyperspectal Index |Formula |Name
 
 [^25]:	E. Barnes et al., “Coincident detection of crop water stress, nitrogen status, and canopy density using ground based multispectral data,” Jan. 2000.
 
+## SHAP Feature Importance in each time-step
+
+### June 17, 2021
+
+![alt text](https://github.com/ceavilest/Maize_Yield_Prediction_Whispers2022/blob/main/date1?raw=true)
