@@ -58,6 +58,9 @@ No. |Hyperspectal Index |Formula |Name
 
 ## SHAP Feature Importance in each time-step
 
+![whispers_short](https://user-images.githubusercontent.com/60016881/181653650-99d72a5d-7863-4dc5-94c8-e8b167741a59.gif)
+
+
 ### June 17, 2021
 
 ![Screenshot](20210617.jpg)
