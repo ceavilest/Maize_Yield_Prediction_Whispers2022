@@ -30,7 +30,7 @@ No. |Hyperspectal Index |Formula |Name
 23|EVI|$\LARGE\frac{2.5(\rho_{800}-\rho_{670})}{\rho_{800}+6\rho_{670}+7.5\rho_{475}+1}$|Enhanced Vegetation Index [^9]
 24|OSAVI|$\LARGE\frac{1.16(\rho_{800}-\rho_{670})}{0.16+\rho_{800}+\rho_{670}}$|Optimized Soil-Adjusted Vegetation Index [^10]
 25|OSAVI2|$\LARGE\frac{1.16(\rho_{750}-\rho_{705})}{0.16+\rho_{750}+\rho_{705}}$|Optimized Soil-Adjusted Vegetation Index [^10]
-26|TCARI|$\large 0.5+3[(\rho_{700}-\rho_{670})-0.2(\rho_{700}-\rho_{550})(\frac{\rho_{700}}{\rho_{670}})]$|Transformed Chlorophyll Absorption in Reflectance [^11]
+26|TCARI|$\large 0.5+3[(\rho_{700}-\rho_{670})-0.2(\rho_{700}-\rho_{550})*(\frac{\rho_{700}}{\rho_{670}})]$|Transformed Chlorophyll Absorption in Reflectance [^11]
 27|TCARI2|$\large 3[(\rho_{750}-\rho_{705})- 0.2(\rho_{750}-\rho_{550})*(\frac{\rho_{750}}{\rho_{705}})]$|Transformed Chlorophyll Absorption in Reflectance [^11]
 28|MCARI|$\large 4[(\rho_{700}-\rho_{670})-0.2(\rho_{700}-\rho_{550})]*(\frac{\rho_{700}}{\rho_{670}})$|Modified Chlorophyll Absorption in Reflectance Index [^12]
 29|TVI|$\large 0.5[120(\rho_{750}-\rho_{550})-2.5(\rho_{670}-\rho_{550})]$|Triangular Vegetation Index [^13]
