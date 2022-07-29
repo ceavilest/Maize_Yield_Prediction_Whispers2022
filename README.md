@@ -61,30 +61,6 @@ No. |Hyperspectal Index |Formula |Name
 ![whispers_short](https://user-images.githubusercontent.com/60016881/181653650-99d72a5d-7863-4dc5-94c8-e8b167741a59.gif)
 
 
-### June 17, 2021
-
-![Screenshot](20210617.jpg)
-
-### July 3, 2021
-
-![Screenshot](20210703.jpg)
-
-### July 20, 2021
-
-![Screenshot](20210720.jpg)
-
-### July 27, 2021
-
-![Screenshot](20210727.jpg)
-
-### August 15, 2021
-
-![Screenshot](20210815.jpg)
-
-### September 6, 2021
-
-![Screenshot](20210906.jpg)
-
 ### References
 
 [^1]:	A. A. Gitelson and M. N. Merzlyak, “Remote sensing of chlorophyll concentration in higher plant leaves,” Adv. Space Res., vol. 22, no. 5, pp. 689–692, Jan. 1998, doi: 10.1016/S0273-1177(97)01133-2.
